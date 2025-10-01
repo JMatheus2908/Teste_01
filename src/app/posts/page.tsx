@@ -1,4 +1,5 @@
 
+//SERVER COMPONENTS 
 export default function PostsPage() {
     return (
         <div>
